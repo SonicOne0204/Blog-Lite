@@ -1,0 +1,10 @@
+django
+djangorestframework
+drf-spectacular
+black
+ruff
+psycopg2-binary
+pytest
+pytest-django
+gunicorn
+python-dotenv
